@@ -1,0 +1,20 @@
+<?php
+$title = 'Serwis laptopów i komputerów, naprawa - Warszawa';
+$keywords = 'naprawa laptopów komputerów warszawa ursynów bemowo serwis błyskawiczną współpracę';
+?>
+<h1 style="text-align: center; line-height: 30px;">Serwis komputerowy w&nbsp;Warszawie - naprawa i&nbsp;serwis komputerów, serwis i&nbsp;naprawa laptopów - Warszawa&nbsp;TPL</h1>
+
+<h3 class="color" style="text-align: center;">Jesteśmy autoryzowanym partnerem <img src="images/logo_asseco_wapro_s.png" alt="Asseco&nbsp;Wapro"></h3>
+	
+<div style="width: 100%; display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
+	<img src="images/tryb.png" alt="Naprawiamy laptopy"/>
+	<span class="color" style="text-align: center; line-height: 20px; font-family: Verdana, sans-serif; font-size: 20px;cursor: default;font-weight: bold;">Witamy na stronie TPL&nbsp;Serwis Laptopów</span>
+	<img src="images/terminowafirma-new.png" alt="TPL Serwis – Terminowa Firma" />
+</div>
+
+<p>Serdecznie witamy na stronie internetowej naszego serwisu komputerowego, którego celem jest <span class="color_bold">zapewnienie ekspresowych usług serwisowych i naprawy komputerów</span>. Oferujemy szybkie i profesjonalne usługi, podstawowe to naprawa komputerów. Warszawa jest miastem, w którym mieszczą się dwie siedziby naszej firmy: na Al. Komisji Edukacji Narodowej 83 oraz ul. Powstańców Śląskich 45. Nasza firma pracuje sześć dni w tygodniu, od poniedziałku do soboty, zapewniając szybki serwis komputerów.</p>
+<p>Warszawa oferuje wiele usług z zakresu serwisu oraz naprawy komputerów, jednak nie każda lokalizacja jest korzystna dla klienta, nasze siedziby znajdują się na <span class="color_bold">Ursynowie oraz Bemowie - Woli. Naszym klientom zapewniamy profesjonalne i nowoczesne zaplecze serwisowe, tym gwarantując najwyższą jakość usług</span>. Nasze usługi wykonują najlepsi fachowcy w branży. Korzystając z naszych usług, otrzymują Państwo <span class="color_bold">błyskawiczną diagnozę</span>, do kliku minut oraz <span class="color_bold">szybką naprawę</span>, maksymalnie do 7 dni roboczych. Realizujemy zarówno drobne naprawy, jak i usługi kompleksowego serwisowania całej infrastruktury komputerowej oraz oferujemy wsparcie techniczne.</p>
+<p>Nasze usługi realizujemy <span class="color_bold">szybko i skutecznie</span>, dzięki czemu klienci chętnie odwiedzają nasz serwis komputerowy. Warszawa jest miejscem, w którym rozwijają się oraz powstają nowe przedsiębiorstwa. Jeśli jesteś właścicielem jednego z nich, chętnie zawiążemy współpracę. Obecnie z naszych usług korzystają zadowoleni klienci, wśród nich znajdują się małe i średnie firmy, a także duże korporacje. Mimo iż obsługujemy głównie firmy, nie oznacza to, że klienci indywidualni nie mogą skorzystać z naszych usług. Zawsze wychodzimy naprzeciw oczekiwaniom każdego z klientów, dlatego chętnie świadczymy również usługi drobnych napraw, dla klientów indywidualnych.</p>
+<p><span class="color_bold">Oferujemy bezpłatną i ekspresową wycenę naprawy sprzętu</span>. W przypadku wymiany matrycy w naszym serwisie wystawiamy dwutygodniową <span class="color_bold">gwarancję</span> na tak zwane "bad piksele". Bardzo efektywnie naprawiamy płyty główne, nasza skuteczność kształtuje się na poziomie 98 procent. Są to powody, dla których warto wybrać nasz <span class="color_bold">serwis laptopów</span>. Warszawa - miasto, w którym znajdują się nasze siedziby, <span class="color_bold">na pewno znajdziesz lokalizację dogodną dla siebie</span>. Nawet jeśli Państwa laptop działa sprawnie i bez zarzutów, warto go regularnie serwisować. Bieżąca kontrola sprzętu może zapobiec wysokim wydatkom, jakie powoduje <span class="color_bold">naprawa laptopów</span>. Warszawa to miejscowość, z której pochodzi większość naszych klientów, jednak nie zamykamy się na konkretne grono klientów, zachęcamy do współpracy klientów z całego regionu.</p>
+
+<h2 class="color" style="text-align: center;"> Naprawa laptopów&nbsp;w&nbsp;Warszawie na Jelonkach, Woli, Bemowie czy Ursynowie? Najlepiej z&nbsp;TPL&nbsp;Serwis.</h2>

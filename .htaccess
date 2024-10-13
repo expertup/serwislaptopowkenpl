@@ -1,0 +1,22 @@
+RewriteEngine On
+
+RewriteBase /serwislaptopow-ken.pl/
+
+RewriteCond %{HTTP_HOST} ^www.backup.expertup.usermd.net/serwislaptopow-ken.pl(.*) [NC]
+RewriteRule ^(.*)$ http://backup.expertup.usermd.net/serwislaptopow-ken.pl/$1 [R=301,L]
+
+RewriteRule ^(.*)/$ index.php?page=ok&link=$1 [L]
+
+RewriteRule ^serwis.appcache.php$ serwis.appcache.php [L]
+RewriteRule ^(.*)/serwis.appcache.php$ serwis.appcache.php [L]
+RewriteRule ^index.php$ - [R=301,L]
+RewriteRule ^(.*).php$ $1/ [R=301,L]
+
+RewriteRule ^(.*).js$ $1.js [L]
+RewriteRule ^css/(.*).css$ css/$1.css [L]
+RewriteRule ^(.*).ico$ $1.ico [L]
+RewriteRule ^images/(.*)$ images/$1 [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*)$ $1/ [L,R=301] 
